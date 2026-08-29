@@ -1,0 +1,4 @@
+Slide 12: Restyle and reposition the two inherited textboxes; normalize the four inherited evidence-image frames. No copy or image content changes.
+Slide 13: Restyle and reposition the two inherited textboxes into broad horizontal content bands. No copy changes.
+Slide 14: Restyle and reposition the two inherited textboxes into broad horizontal content bands. No copy changes.
+All other slides: preserved without intentional edits.

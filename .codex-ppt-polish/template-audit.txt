@@ -1,0 +1,6 @@
+Source deck: 21 slides, 1280 x 720, red-and-white Kouweiwang brand template.
+Slides 11-15 share the same local title, red issue banner, thin divider, top-left logo, and bottom-right brand mark.
+Typography uses Microsoft YaHei, DengXian, and the template display face. Existing title/body font sizes are retained.
+Slides 12-14 are slide-local compositions on layout 1_Title Slide. No master or layout edits are required.
+The requested output preserves all 21 slides and modifies only existing slide-local objects on slides 12-14.
+Inherited date/footer/slide-number placeholders are master-level and not visible in the source renders; no new placeholders are introduced.

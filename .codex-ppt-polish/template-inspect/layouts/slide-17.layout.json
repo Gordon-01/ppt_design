@@ -1,0 +1,981 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/14bup87q",
+    "id": "14bup87q",
+    "slide": 17,
+    "layoutId": "/ppt/slideLayouts/slideLayout13.xml",
+    "layoutName": "1_标题幻灯片",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "等线 Light"
+      },
+      "minorFont": {
+        "latinTypeface": "等线"
+      }
+    },
+    "typefaces": [
+      "微软雅黑",
+      "时尚中黑简体",
+      "等线",
+      "等线 Light"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout13.xml",
+      "name": "1_标题幻灯片",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n二级\n三级\n四级\n五级",
+          "textPreview": "单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/wbat0jet",
+      "id": "75",
+      "name": "图片 7",
+      "bbox": [
+        23.62,
+        27.67,
+        110.87,
+        94.49
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image6.png",
+        "contentType": "image/png",
+        "byteLength": 19651
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image6.png",
+        "contentType": "image/png",
+        "byteLength": 19651
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ypo3e9kr",
+      "id": "74",
+      "name": "文本框 73",
+      "bbox": [
+        251.2,
+        47.07,
+        478.07,
+        67.73
+      ],
+      "geometry": "rect",
+      "text": "战区共识意见（初稿）",
+      "textPreview": "战区共识意见（初稿）",
+      "resolvedFontSize": 42.67,
+      "resolvedTextStyle": {
+        "fontSize": 42.67,
+        "typeface": "时尚中黑简体",
+        "color": "#860000",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "战区共识意见（初稿"
+          },
+          {
+            "index": 2,
+            "text": "）"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "战区共识意见（初稿）",
+          "runs": [
+            {
+              "index": 1,
+              "text": "战区共识意见（初稿）",
+              "fontSize": 48,
+              "typeface": "微软雅黑",
+              "color": "#C00000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7up8ryp",
+      "id": "29",
+      "name": "矩形 28",
+      "bbox": [
+        160.67,
+        39.2,
+        45.8,
+        75.6
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#C00000",
+      "lineColor": "#C00000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0j6dcvy",
+      "id": "33",
+      "name": "矩形 32",
+      "bbox": [
+        216.4,
+        39.2,
+        20.13,
+        75.6
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#C00000",
+      "lineColor": "#C00000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e98nydwb",
+      "id": "34",
+      "name": "矩形 33",
+      "bbox": [
+        727.27,
+        39.2,
+        37,
+        75.6
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#C00000",
+      "lineColor": "#C00000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4by9gfy",
+      "id": "59",
+      "name": "矩形 58",
+      "bbox": [
+        1188.87,
+        626.47,
+        59.6,
+        60.73
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#C00000",
+      "lineColor": "#C00000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q1o3apkv",
+      "id": "70",
+      "name": "矩形 69",
+      "bbox": [
+        1155,
+        626.47,
+        23.47,
+        60.73
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#C00000",
+      "lineColor": "#C00000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ba1c7exo",
+      "id": "76",
+      "name": "图片 101",
+      "bbox": [
+        1196.67,
+        638.27,
+        43.53,
+        37.13
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image2.png",
+        "contentType": "image/png",
+        "byteLength": 23866
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image2.png",
+        "contentType": "image/png",
+        "byteLength": 23866
+      }
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1c7e50ni",
+      "id": "2",
+      "name": "文本框 1",
+      "bbox": [
+        145.4,
+        144.87,
+        864.93,
+        533.07
+      ],
+      "geometry": "rect",
+      "text": "一、战术层：\n问题清单：产品结构单一，口味王系列销量下滑，和成系列高端不强势，100元铺市率，饱满度有待提升                    \n 整改建议：利用青和调整，推动和成天下高端推广；稳住口味王30元产品，加强50元飞黄腾达的推广，利用好10元产品狙击低价位槟榔，压缩低价位槟榔生存空间;         \n      \n二、战略层：\n方向共识：稳口味王，推和成，加快产品结构调整，提升和成及高端占比。\n市场定位共识：消费者培育+市场份额抢占+和成占比提升+高端系列推广。\n资源配置建议：常规渠道的持续网点开发及特通渠道的全面渗透，业务人员增加，优化人均网点及人均产出。\n竞品应对策略：主竞品枸杞销量主要集中在30元价位，充分利用部分大力度促销产品针对，主竞品枸杞强势区域及A类网点，精准投放及打击。\n经销商发展建议：随着市场的发展，团队必须要进行优胜劣汰，加强内部培养，提升业务员专业技能，加强管理体系制度和流程，让团队能打仗，打胜仗。\n\n",
+      "textPreview": "一、战术层： | 问题清单：产品结构单一，口味王系列销量下滑，和成系列高端不强势，100元铺市率，饱满度有待提升                     |  整改建议：利用青和调整，推动和成天下高端推广；稳住口味王30元产品，加强50元飞黄腾达的推广，利用好10元产品狙击...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 21,
+        "lines": [
+          {
+            "index": 1,
+            "text": "一、战术层："
+          },
+          {
+            "index": 2,
+            "text": "问题清单：产品结构单一，口味王系列销量下滑，和成系列高端不强势，100"
+          },
+          {
+            "index": 3,
+            "text": "元铺市率，饱满度有待提升"
+          },
+          {
+            "index": 4,
+            "text": " 整改建议：利用青和调整，推动和成天下高端推广；稳住口味王30"
+          },
+          {
+            "index": 5,
+            "text": "元产品，加强50元飞黄腾达的推广，利用好10"
+          },
+          {
+            "index": 6,
+            "text": "元产品狙击低价位槟榔，压缩低价位槟榔生存空间;"
+          },
+          {
+            "index": 7,
+            "text": "      "
+          },
+          {
+            "index": 8,
+            "text": "二、战略层："
+          },
+          {
+            "index": 9,
+            "text": "方向共识：稳口味王，推和成，加快产品结构调整，提升和成及高端占比。"
+          },
+          {
+            "index": 10,
+            "text": "市场定位共识：消费者培育+市场份额抢占+和成占比提升+高端系列推广。"
+          },
+          {
+            "index": 11,
+            "text": "资源配置建议："
+          },
+          {
+            "index": 12,
+            "text": "常规渠道的持续网点开发及特通渠道的全面渗透，业务人员增加，优化人均网点"
+          },
+          {
+            "index": 13,
+            "text": "及人均产出。"
+          },
+          {
+            "index": 14,
+            "text": "竞品应对策略：主竞品枸杞销量主要集中在30元价位，"
+          },
+          {
+            "index": 15,
+            "text": "充分利用部分大力度促销产品针对，主竞品枸杞强势区域及A"
+          },
+          {
+            "index": 16,
+            "text": "类网点，精准投放及打击。"
+          },
+          {
+            "index": 17,
+            "text": "经销商发展建议："
+          },
+          {
+            "index": 18,
+            "text": "随着市场的发展，团队必须要进行优胜劣汰，加强内部培养，提升业务员专业技"
+          },
+          {
+            "index": 19,
+            "text": "能，加强管理体系制度和流程，让团队能打仗，打胜仗。"
+          },
+          {
+            "index": 20,
+            "text": ""
+          },
+          {
+            "index": 21,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "一、战术层：",
+          "runs": [
+            {
+              "index": 1,
+              "text": "一、战术层：",
+              "color": "#FF0000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "问题清单：产品结构单一，口味王系列销量下滑，和成系列高端不强势，100元铺市率，饱满度有待提升                    ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "问题清单：",
+              "color": "#FF0000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "产品结构单一，"
+            },
+            {
+              "index": 3,
+              "text": "口味王系列销量下滑，和成系列高端不强势，"
+            },
+            {
+              "index": 4,
+              "text": "100"
+            },
+            {
+              "index": 5,
+              "text": "元铺市率，饱满度有待提升 "
+            },
+            {
+              "index": 6,
+              "text": "                   "
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": " 整改建议：利用青和调整，推动和成天下高端推广；稳住口味王30元产品，加强50元飞黄腾达的推广，利用好10元产品狙击低价位槟榔，压缩低价位槟榔生存空间;         ",
+          "runs": [
+            {
+              "index": 1,
+              "text": " "
+            },
+            {
+              "index": 2,
+              "text": "整改建议：",
+              "color": "#FF0000",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "利用青和调整，推动和成天下高端推广；稳住口味王"
+            },
+            {
+              "index": 4,
+              "text": "30"
+            },
+            {
+              "index": 5,
+              "text": "元产品，加强"
+            },
+            {
+              "index": 6,
+              "text": "50"
+            },
+            {
+              "index": 7,
+              "text": "元飞黄腾达的推广，利用好"
+            },
+            {
+              "index": 8,
+              "text": "10"
+            },
+            {
+              "index": 9,
+              "text": "元产品狙击低价位槟榔，压缩低价位槟榔生存空间"
+            },
+            {
+              "index": 10,
+              "text": ";         "
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "runs": [
+            {
+              "index": 1,
+              "text": "      "
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "二、战略层：",
+          "runs": [
+            {
+              "index": 1,
+              "text": "二、战略层：",
+              "color": "#FF0000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "方向共识：稳口味王，推和成，加快产品结构调整，提升和成及高端占比。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "方向共识",
+              "color": "#FF0000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "：稳"
+            },
+            {
+              "index": 3,
+              "text": "口味王，推和成，加快产品结构调整，提升和成及高端"
+            },
+            {
+              "index": 4,
+              "text": "占比。"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "市场定位共识：消费者培育+市场份额抢占+和成占比提升+高端系列推广。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "市场定位共识：",
+              "color": "#FF0000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "消费者培育"
+            },
+            {
+              "index": 3,
+              "text": "+"
+            },
+            {
+              "index": 4,
+              "text": "市场份额抢占"
+            },
+            {
+              "index": 5,
+              "text": "+"
+            },
+            {
+              "index": 6,
+              "text": "和成占比提升"
+            },
+            {
+              "index": 7,
+              "text": "+"
+            },
+            {
+              "index": 8,
+              "text": "高端系列"
+            },
+            {
+              "index": 9,
+              "text": "推广。"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "资源配置建议：常规渠道的持续网点开发及特通渠道的全面渗透，业务人员增加，优化人均网点及人均产出。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "资源配置建议：",
+              "color": "#FF0000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "常规渠道的持续网点开发及特通渠道的全面渗透，业务人员增加，优化人均网点及人均"
+            },
+            {
+              "index": 3,
+              "text": "产出。"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "竞品应对策略：主竞品枸杞销量主要集中在30元价位，充分利用部分大力度促销产品针对，主竞品枸杞强势区域及A类网点，精准投放及打击。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "竞品应对策略：",
+              "color": "#FF0000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "主竞品枸杞销量主要集中在"
+            },
+            {
+              "index": 3,
+              "text": "30"
+            },
+            {
+              "index": 4,
+              "text": "元价位，"
+            },
+            {
+              "index": 5,
+              "text": "充分利用部分大力度促销产品"
+            },
+            {
+              "index": 6,
+              "text": "针对，主竞品枸杞强势区域及"
+            },
+            {
+              "index": 7,
+              "text": "A"
+            },
+            {
+              "index": 8,
+              "text": "类网点，精准投放及打击。"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 10,
+          "text": "经销商发展建议：随着市场的发展，团队必须要进行优胜劣汰，加强内部培养，提升业务员专业技能，加强管理体系制度和流程，让团队能打仗，打胜仗。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "经销商发展建议：",
+              "color": "#FF0000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "随着市场的发展，团队必须要进行优胜劣汰，加强内部培养，提升业务员专业技能，加强管理体系制度和流程，让团队能打仗，打胜仗。"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

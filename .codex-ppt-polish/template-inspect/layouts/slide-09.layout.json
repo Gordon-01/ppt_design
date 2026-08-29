@@ -1,0 +1,2480 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/udsvah03",
+    "id": "udsvah03",
+    "slide": 9,
+    "layoutId": "/ppt/slideLayouts/slideLayout27.xml",
+    "layoutName": "1_标题幻灯片",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster2.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "等线 Light"
+      },
+      "minorFont": {
+        "latinTypeface": "等线"
+      }
+    },
+    "typefaces": [
+      "微软雅黑",
+      "时尚中黑简体",
+      "等线",
+      "等线 Light"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout27.xml",
+      "name": "1_标题幻灯片",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster2.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster2.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster2.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster2.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n二级\n三级\n四级\n五级",
+          "textPreview": "单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster2.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster2.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster2.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/wnud0na5",
+      "id": "75",
+      "name": "图片 7",
+      "bbox": [
+        23.62,
+        27.67,
+        110.87,
+        94.49
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image6.png",
+        "contentType": "image/png",
+        "byteLength": 19651
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image6.png",
+        "contentType": "image/png",
+        "byteLength": 19651
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q9gf210j",
+      "id": "74",
+      "name": "文本框 73",
+      "bbox": [
+        251.2,
+        47.07,
+        443.73,
+        67.73
+      ],
+      "geometry": "rect",
+      "text": "市场检查结果通报",
+      "textPreview": "市场检查结果通报",
+      "resolvedFontSize": 42.67,
+      "resolvedTextStyle": {
+        "fontSize": 42.67,
+        "typeface": "时尚中黑简体",
+        "color": "#860000",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "市场检查结果通报"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "市场检查结果通报",
+          "runs": [
+            {
+              "index": 1,
+              "text": "市场检查结果通报",
+              "fontSize": 48,
+              "typeface": "微软雅黑",
+              "color": "#C00000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cf6h0fql",
+      "id": "29",
+      "name": "矩形 28",
+      "bbox": [
+        160.67,
+        39.2,
+        45.8,
+        75.6
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#C00000",
+      "lineColor": "#C00000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pofy50nu",
+      "id": "33",
+      "name": "矩形 32",
+      "bbox": [
+        216.4,
+        39.2,
+        20.13,
+        75.6
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#C00000",
+      "lineColor": "#C00000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/apofe5of",
+      "id": "34",
+      "name": "矩形 33",
+      "bbox": [
+        669,
+        39.2,
+        37,
+        75.6
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#C00000",
+      "lineColor": "#C00000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5432t8rm",
+      "id": "59",
+      "name": "矩形 58",
+      "bbox": [
+        1188.87,
+        626.47,
+        59.6,
+        60.73
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#C00000",
+      "lineColor": "#C00000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed0z6l0f",
+      "id": "70",
+      "name": "矩形 69",
+      "bbox": [
+        1155,
+        626.47,
+        23.47,
+        60.73
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#C00000",
+      "lineColor": "#C00000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/vmlwritk",
+      "id": "76",
+      "name": "图片 101",
+      "bbox": [
+        1196.67,
+        638.27,
+        43.53,
+        37.13
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image2.png",
+        "contentType": "image/png",
+        "byteLength": 23866
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image2.png",
+        "contentType": "image/png",
+        "byteLength": 23866
+      }
+    },
+    {
+      "order": 9,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/210r218f",
+      "id": "77",
+      "name": "表格 1",
+      "bbox": [
+        52.53,
+        145.87,
+        1144.13,
+        325.99
+      ],
+      "text": "市场名 | 检核得分 | 加分 | 减分 | 加减分原因 | 市场月均销量 | 市场辖区 | 最终得分\n中原 | 89.6 | 700万左右 | 中原区及荥阳、上街区 | 89.6\n淮阳 | 87 | 2 | 高考送考活动为市场独有特色、经销商尽职尽责亲自管理市场 | 520万左右 | 淮阳、太康 | 89\n郑州南 | 88.9 | 1000万左右 | 二七区、郑东新区、管城回族区 | 88.9\n兰考 | 90.8 | 2 | 仓库库存为0，属于不正常现象 | 460万左右 | 兰考县、祁县 | 88.8\n通许 | 90.7 | 2 | 仓库库存为0，属于不正常现象 | 410万左右 | 祥符区、通许县 | 88.7\n上蔡 | 86.5 | 270万左右 | 上蔡县 | 86.5\n偃师 | 75.1 | 150万左右 | 偃师、伊川县 | 75.1",
+      "textPreview": "市场名 | 检核得分 | 加分 | 减分 | 加减分原因 | 市场月均销量 | 市场辖区 | 最终得分 | 中原 | 89.6 | 700万左右 | 中原区及荥阳、上街区 | 89.6 | 淮阳 | 87 | 2 | 高考送考活动为市场独有特色、经销商尽职尽责亲自管理市场 ...",
+      "rows": 8,
+      "cols": 8,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            52.53,
+            145.87,
+            70.73,
+            95.33
+          ],
+          "text": "市场名",
+          "textPreview": "市场名",
+          "fillColor": "#FF0000",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "市场名",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "市场名",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            123.27,
+            145.87,
+            80.2,
+            95.33
+          ],
+          "text": "检核得分",
+          "textPreview": "检核得分",
+          "fillColor": "#FF0000",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "检核得分",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "检核得分",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            203.47,
+            145.87,
+            42.13,
+            95.33
+          ],
+          "text": "加分",
+          "textPreview": "加分",
+          "fillColor": "#FF0000",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "加分",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "加分",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            245.6,
+            145.87,
+            42.13,
+            95.33
+          ],
+          "text": "减分",
+          "textPreview": "减分",
+          "fillColor": "#FF0000",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "减分",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "减分",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            287.73,
+            145.87,
+            495,
+            95.33
+          ],
+          "text": "加减分原因",
+          "textPreview": "加减分原因",
+          "fillColor": "#FF0000",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "加减分原因",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "加减分原因",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 6,
+          "bbox": [
+            782.73,
+            145.87,
+            112.8,
+            95.33
+          ],
+          "text": "市场月均销量",
+          "textPreview": "市场月均销量",
+          "fillColor": "#FF0000",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "市场月均销量",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "市场月均销量",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 1,
+          "column": 7,
+          "bbox": [
+            895.53,
+            145.87,
+            236,
+            95.33
+          ],
+          "text": "市场辖区",
+          "textPreview": "市场辖区",
+          "fillColor": "#FF0000",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "市场辖区",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "市场辖区",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 1,
+          "column": 8,
+          "bbox": [
+            1131.53,
+            145.87,
+            65.13,
+            95.33
+          ],
+          "text": "最终得分",
+          "textPreview": "最终得分",
+          "fillColor": "#FF0000",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "最终得分",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "最终得分",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            52.53,
+            241.2,
+            70.73,
+            32.93
+          ],
+          "text": "中原",
+          "textPreview": "中原",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "中原",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "中原",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            123.27,
+            241.2,
+            80.2,
+            32.93
+          ],
+          "text": "89.6",
+          "textPreview": "89.6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "89.6",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "89.6",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            203.47,
+            241.2,
+            42.13,
+            32.93
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            245.6,
+            241.2,
+            42.13,
+            32.93
+          ]
+        },
+        {
+          "index": 13,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            287.73,
+            241.2,
+            495,
+            32.93
+          ]
+        },
+        {
+          "index": 14,
+          "row": 2,
+          "column": 6,
+          "bbox": [
+            782.73,
+            241.2,
+            112.8,
+            32.93
+          ],
+          "text": "700万左右",
+          "textPreview": "700万左右",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "700万左右",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "700",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                },
+                {
+                  "index": 2,
+                  "text": "万左右",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 2,
+          "column": 7,
+          "bbox": [
+            895.53,
+            241.2,
+            236,
+            32.93
+          ],
+          "text": "中原区及荥阳、上街区",
+          "textPreview": "中原区及荥阳、上街区",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "中原区及荥阳、上街区",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "中原区及荥阳、上街区",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 2,
+          "column": 8,
+          "bbox": [
+            1131.53,
+            241.2,
+            65.13,
+            32.93
+          ],
+          "text": "89.6",
+          "textPreview": "89.6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "89.6",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "89.6",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            52.53,
+            274.13,
+            70.73,
+            32.93
+          ],
+          "text": "淮阳",
+          "textPreview": "淮阳",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "淮阳",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "淮阳",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            123.27,
+            274.13,
+            80.2,
+            32.93
+          ],
+          "text": "87",
+          "textPreview": "87",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "87",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "87",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            203.47,
+            274.13,
+            42.13,
+            32.93
+          ],
+          "text": "2",
+          "textPreview": "2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            245.6,
+            274.13,
+            42.13,
+            32.93
+          ]
+        },
+        {
+          "index": 21,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            287.73,
+            274.13,
+            495,
+            32.93
+          ],
+          "text": "高考送考活动为市场独有特色、经销商尽职尽责亲自管理市场",
+          "textPreview": "高考送考活动为市场独有特色、经销商尽职尽责亲自管理市场",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "高考送考活动为市场独有特色、经销商尽职尽责亲自管理市场",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "高考送考活动为市场独有特色、经销商尽职尽责亲自管理市场",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 3,
+          "column": 6,
+          "bbox": [
+            782.73,
+            274.13,
+            112.8,
+            32.93
+          ],
+          "text": "520万左右",
+          "textPreview": "520万左右",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "520万左右",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "520",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                },
+                {
+                  "index": 2,
+                  "text": "万左右",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 3,
+          "column": 7,
+          "bbox": [
+            895.53,
+            274.13,
+            236,
+            32.93
+          ],
+          "text": "淮阳、太康",
+          "textPreview": "淮阳、太康",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "淮阳、太康",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "淮阳、太康",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 3,
+          "column": 8,
+          "bbox": [
+            1131.53,
+            274.13,
+            65.13,
+            32.93
+          ],
+          "text": "89",
+          "textPreview": "89",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "89",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "89",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            52.53,
+            307.07,
+            70.73,
+            33
+          ],
+          "text": "郑州南",
+          "textPreview": "郑州南",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "郑州南",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "郑州南",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            123.27,
+            307.07,
+            80.2,
+            33
+          ],
+          "text": "88.9",
+          "textPreview": "88.9",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "88.9",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "88.9",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            203.47,
+            307.07,
+            42.13,
+            33
+          ]
+        },
+        {
+          "index": 28,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            245.6,
+            307.07,
+            42.13,
+            33
+          ]
+        },
+        {
+          "index": 29,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            287.73,
+            307.07,
+            495,
+            33
+          ]
+        },
+        {
+          "index": 30,
+          "row": 4,
+          "column": 6,
+          "bbox": [
+            782.73,
+            307.07,
+            112.8,
+            33
+          ],
+          "text": "1000万左右",
+          "textPreview": "1000万左右",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1000万左右",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1000",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                },
+                {
+                  "index": 2,
+                  "text": "万左右",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 4,
+          "column": 7,
+          "bbox": [
+            895.53,
+            307.07,
+            236,
+            33
+          ],
+          "text": "二七区、郑东新区、管城回族区",
+          "textPreview": "二七区、郑东新区、管城回族区",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "二七区、郑东新区、管城回族区",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "二七区、郑东新区、管城回族区",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 4,
+          "column": 8,
+          "bbox": [
+            1131.53,
+            307.07,
+            65.13,
+            33
+          ],
+          "text": "88.9",
+          "textPreview": "88.9",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "88.9",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "88.9",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            52.53,
+            340.07,
+            70.73,
+            32.93
+          ],
+          "text": "兰考",
+          "textPreview": "兰考",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "兰考",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "兰考",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            123.27,
+            340.07,
+            80.2,
+            32.93
+          ],
+          "text": "90.8",
+          "textPreview": "90.8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "90.8",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "90.8",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 35,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            203.47,
+            340.07,
+            42.13,
+            32.93
+          ]
+        },
+        {
+          "index": 36,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            245.6,
+            340.07,
+            42.13,
+            32.93
+          ],
+          "text": "2",
+          "textPreview": "2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 37,
+          "row": 5,
+          "column": 5,
+          "bbox": [
+            287.73,
+            340.07,
+            495,
+            32.93
+          ],
+          "text": "仓库库存为0，属于不正常现象",
+          "textPreview": "仓库库存为0，属于不正常现象",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "仓库库存为0，属于不正常现象",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "仓库库存为",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                },
+                {
+                  "index": 2,
+                  "text": "0",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                },
+                {
+                  "index": 3,
+                  "text": "，属于不正常现象",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 38,
+          "row": 5,
+          "column": 6,
+          "bbox": [
+            782.73,
+            340.07,
+            112.8,
+            32.93
+          ],
+          "text": "460万左右",
+          "textPreview": "460万左右",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "460万左右",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "460",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                },
+                {
+                  "index": 2,
+                  "text": "万左右",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 39,
+          "row": 5,
+          "column": 7,
+          "bbox": [
+            895.53,
+            340.07,
+            236,
+            32.93
+          ],
+          "text": "兰考县、祁县",
+          "textPreview": "兰考县、祁县",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "兰考县、祁县",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "兰考县、祁县",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 40,
+          "row": 5,
+          "column": 8,
+          "bbox": [
+            1131.53,
+            340.07,
+            65.13,
+            32.93
+          ],
+          "text": "88.8",
+          "textPreview": "88.8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "88.8",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "88.8",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 41,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            52.53,
+            373,
+            70.73,
+            32.93
+          ],
+          "text": "通许",
+          "textPreview": "通许",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "通许",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "通许",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 42,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            123.27,
+            373,
+            80.2,
+            32.93
+          ],
+          "text": "90.7",
+          "textPreview": "90.7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "90.7",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "90.7",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 43,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            203.47,
+            373,
+            42.13,
+            32.93
+          ]
+        },
+        {
+          "index": 44,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            245.6,
+            373,
+            42.13,
+            32.93
+          ],
+          "text": "2",
+          "textPreview": "2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 45,
+          "row": 6,
+          "column": 5,
+          "bbox": [
+            287.73,
+            373,
+            495,
+            32.93
+          ],
+          "text": "仓库库存为0，属于不正常现象",
+          "textPreview": "仓库库存为0，属于不正常现象",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "仓库库存为0，属于不正常现象",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "仓库库存为",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                },
+                {
+                  "index": 2,
+                  "text": "0",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                },
+                {
+                  "index": 3,
+                  "text": "，属于不正常现象",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 46,
+          "row": 6,
+          "column": 6,
+          "bbox": [
+            782.73,
+            373,
+            112.8,
+            32.93
+          ],
+          "text": "410万左右",
+          "textPreview": "410万左右",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "410万左右",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "410",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                },
+                {
+                  "index": 2,
+                  "text": "万左右",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 47,
+          "row": 6,
+          "column": 7,
+          "bbox": [
+            895.53,
+            373,
+            236,
+            32.93
+          ],
+          "text": "祥符区、通许县",
+          "textPreview": "祥符区、通许县",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "祥符区、通许县",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "祥符区、通许县",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 48,
+          "row": 6,
+          "column": 8,
+          "bbox": [
+            1131.53,
+            373,
+            65.13,
+            32.93
+          ],
+          "text": "88.7",
+          "textPreview": "88.7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "88.7",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "88.7",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 49,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            52.53,
+            405.93,
+            70.73,
+            33
+          ],
+          "text": "上蔡",
+          "textPreview": "上蔡",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "上蔡",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "上蔡",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 50,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            123.27,
+            405.93,
+            80.2,
+            33
+          ],
+          "text": "86.5",
+          "textPreview": "86.5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "86.5",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "86.5",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 51,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            203.47,
+            405.93,
+            42.13,
+            33
+          ]
+        },
+        {
+          "index": 52,
+          "row": 7,
+          "column": 4,
+          "bbox": [
+            245.6,
+            405.93,
+            42.13,
+            33
+          ]
+        },
+        {
+          "index": 53,
+          "row": 7,
+          "column": 5,
+          "bbox": [
+            287.73,
+            405.93,
+            495,
+            33
+          ]
+        },
+        {
+          "index": 54,
+          "row": 7,
+          "column": 6,
+          "bbox": [
+            782.73,
+            405.93,
+            112.8,
+            33
+          ],
+          "text": "270万左右",
+          "textPreview": "270万左右",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "270万左右",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "270",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                },
+                {
+                  "index": 2,
+                  "text": "万左右",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 55,
+          "row": 7,
+          "column": 7,
+          "bbox": [
+            895.53,
+            405.93,
+            236,
+            33
+          ],
+          "text": "上蔡县",
+          "textPreview": "上蔡县",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "上蔡县",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "上蔡县",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 56,
+          "row": 7,
+          "column": 8,
+          "bbox": [
+            1131.53,
+            405.93,
+            65.13,
+            33
+          ],
+          "text": "86.5",
+          "textPreview": "86.5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "86.5",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "86.5",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 57,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            52.53,
+            438.93,
+            70.73,
+            32.93
+          ],
+          "text": "偃师",
+          "textPreview": "偃师",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "偃师",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "偃师",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 58,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            123.27,
+            438.93,
+            80.2,
+            32.93
+          ],
+          "text": "75.1",
+          "textPreview": "75.1",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "75.1",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "75.1",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 59,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            203.47,
+            438.93,
+            42.13,
+            32.93
+          ]
+        },
+        {
+          "index": 60,
+          "row": 8,
+          "column": 4,
+          "bbox": [
+            245.6,
+            438.93,
+            42.13,
+            32.93
+          ]
+        },
+        {
+          "index": 61,
+          "row": 8,
+          "column": 5,
+          "bbox": [
+            287.73,
+            438.93,
+            495,
+            32.93
+          ]
+        },
+        {
+          "index": 62,
+          "row": 8,
+          "column": 6,
+          "bbox": [
+            782.73,
+            438.93,
+            112.8,
+            32.93
+          ],
+          "text": "150万左右",
+          "textPreview": "150万左右",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "150万左右",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "150",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                },
+                {
+                  "index": 2,
+                  "text": "万左右",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 63,
+          "row": 8,
+          "column": 7,
+          "bbox": [
+            895.53,
+            438.93,
+            236,
+            32.93
+          ],
+          "text": "偃师、伊川县",
+          "textPreview": "偃师、伊川县",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "偃师、伊川县",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "偃师、伊川县",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 64,
+          "row": 8,
+          "column": 8,
+          "bbox": [
+            1131.53,
+            438.93,
+            65.13,
+            32.93
+          ],
+          "text": "75.1",
+          "textPreview": "75.1",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "75.1",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "75.1",
+                  "fontSize": 18.67,
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/87a18zqt",
+      "id": "21",
+      "name": "文本框 20",
+      "bbox": [
+        52.53,
+        528.2,
+        1136.27,
+        156.13
+      ],
+      "geometry": "rect",
+      "text": "本次检查中中原市场得分最高89.6分，偃师市场得分最低75.1分；\n\n本次检查中仅有淮阳市场为经销商亲自管理市场，其余市场多为“口二代”或市场经理代管市场。\n\n在面谈兰考、通许市场时发现，两个市场属亲戚关系，且仓库均已无库存，属不正常现象。",
+      "textPreview": "本次检查中中原市场得分最高89.6分，偃师市场得分最低75.1分； |  | 本次检查中仅有淮阳市场为经销商亲自管理市场，其余市场多为“口二代”或市场经理代管市场。 |  | 在面谈兰考、通许市场时发现，两个市场属亲戚关系，且仓库均已无库存，属不正常现象。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "u本次检查中中原市场得分最高89.6分，偃师市场得分最低75.1分；"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "u本次检查中仅有淮阳市场为经销商亲自管理市场，其余市场多为“口二代”或市场经理代管市场。"
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "u在面谈兰考、通许市场时发现，两个市场属亲戚关系，且仓库均已无库存，属不正常现象。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "本次检查中中原市场得分最高89.6分，偃师市场得分最低75.1分；",
+          "runs": [
+            {
+              "index": 1,
+              "text": "本次检查中"
+            },
+            {
+              "index": 2,
+              "text": "中原市场"
+            },
+            {
+              "index": 3,
+              "text": "得分最高"
+            },
+            {
+              "index": 4,
+              "text": "89.6"
+            },
+            {
+              "index": 5,
+              "text": "分，"
+            },
+            {
+              "index": 6,
+              "text": "偃师市场"
+            },
+            {
+              "index": 7,
+              "text": "得分最低"
+            },
+            {
+              "index": 8,
+              "text": "75.1"
+            },
+            {
+              "index": 9,
+              "text": "分；"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "本次检查中仅有淮阳市场为经销商亲自管理市场，其余市场多为“口二代”或市场经理代管市场。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "本次检查中仅有"
+            },
+            {
+              "index": 2,
+              "text": "淮阳市场"
+            },
+            {
+              "index": 3,
+              "text": "为经销商亲自管理市场，其余市场多为"
+            },
+            {
+              "index": 4,
+              "text": "“"
+            },
+            {
+              "index": 5,
+              "text": "口二代"
+            },
+            {
+              "index": 6,
+              "text": "”"
+            },
+            {
+              "index": 7,
+              "text": "或市场经理代管"
+            },
+            {
+              "index": 8,
+              "text": "市场。"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "在面谈兰考、通许市场时发现，两个市场属亲戚关系，且仓库均已无库存，属不正常现象。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "在面谈"
+            },
+            {
+              "index": 2,
+              "text": "兰考、通许"
+            },
+            {
+              "index": 3,
+              "text": "市场时发现，两个市场属亲戚关系，且仓库均已无库存，属不正常"
+            },
+            {
+              "index": 4,
+              "text": "现象。"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

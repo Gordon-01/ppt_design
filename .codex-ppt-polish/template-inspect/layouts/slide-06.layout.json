@@ -1,0 +1,1014 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/x8f69ofe",
+    "id": "x8f69ofe",
+    "slide": 6,
+    "layoutId": "/ppt/slideLayouts/slideLayout13.xml",
+    "layoutName": "1_标题幻灯片",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "等线 Light"
+      },
+      "minorFont": {
+        "latinTypeface": "等线"
+      }
+    },
+    "typefaces": [
+      "微软雅黑",
+      "时尚中黑简体",
+      "等线",
+      "等线 Light"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout13.xml",
+      "name": "1_标题幻灯片",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            88,
+            38.33,
+            1104,
+            139.17
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            88,
+            191.67,
+            1104,
+            456.83
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n二级\n三级\n四级\n五级",
+          "textPreview": "单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/50z6twvu",
+      "id": "75",
+      "name": "图片 7",
+      "bbox": [
+        23.62,
+        27.67,
+        110.87,
+        94.49
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image6.png",
+        "contentType": "image/png",
+        "byteLength": 19651
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image6.png",
+        "contentType": "image/png",
+        "byteLength": 19651
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3up8nmd4",
+      "id": "74",
+      "name": "文本框 73",
+      "bbox": [
+        251.2,
+        47.07,
+        722.27,
+        67.73
+      ],
+      "geometry": "rect",
+      "text": "市场经营现状",
+      "textPreview": "市场经营现状",
+      "resolvedFontSize": 42.67,
+      "resolvedTextStyle": {
+        "fontSize": 42.67,
+        "typeface": "时尚中黑简体",
+        "color": "#860000",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "市场经营现状"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "市场经营现状",
+          "runs": [
+            {
+              "index": 1,
+              "text": "市场经营",
+              "fontSize": 48,
+              "typeface": "微软雅黑",
+              "color": "#C00000"
+            },
+            {
+              "index": 2,
+              "text": "现状",
+              "fontSize": 48,
+              "typeface": "微软雅黑",
+              "color": "#C00000"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1k3mhozu",
+      "id": "29",
+      "name": "矩形 28",
+      "bbox": [
+        160.67,
+        39.2,
+        45.8,
+        75.6
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#C00000",
+      "lineColor": "#C00000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4f2pgr2h",
+      "id": "33",
+      "name": "矩形 32",
+      "bbox": [
+        216.4,
+        39.2,
+        20.13,
+        75.6
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#C00000",
+      "lineColor": "#C00000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/va98j210",
+      "id": "34",
+      "name": "矩形 33",
+      "bbox": [
+        573.4,
+        39.2,
+        37,
+        75.6
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#C00000",
+      "lineColor": "#C00000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7md0zi5",
+      "id": "59",
+      "name": "矩形 58",
+      "bbox": [
+        1188.87,
+        626.47,
+        59.6,
+        60.73
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#C00000",
+      "lineColor": "#C00000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vq58j2d8",
+      "id": "70",
+      "name": "矩形 69",
+      "bbox": [
+        1155,
+        626.47,
+        23.47,
+        60.73
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#C00000",
+      "lineColor": "#C00000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ixonihc3",
+      "id": "76",
+      "name": "图片 101",
+      "bbox": [
+        1196.67,
+        638.27,
+        43.53,
+        37.13
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image2.png",
+        "contentType": "image/png",
+        "byteLength": 23866
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image2.png",
+        "contentType": "image/png",
+        "byteLength": 23866
+      }
+    },
+    {
+      "order": 9,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/3yh4rmdo",
+      "id": "77",
+      "name": "图片 8",
+      "bbox": [
+        392.93,
+        136,
+        413.33,
+        551.2
+      ],
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0.00009,
+        "right": 0,
+        "bottom": 0.00009
+      },
+      "asset": {
+        "assetId": "/ppt/media/image7.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 270709
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image7.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 270709
+      }
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhg7epsj",
+      "id": "2",
+      "name": "文本框 1",
+      "bbox": [
+        61.93,
+        172.67,
+        313.33,
+        416.73
+      ],
+      "geometry": "rect",
+      "text": "郑州南、中原市场：\n郑州地区作为省会，槟榔氛围及销量相比周边区域存在一定优势，竞品品类繁多，本品在市场虽处于第一品牌，但仍存在较多不足之处，例不同辖区基础工作差异较大，对于地处偏远、动销缓慢的辖区管理有所松懈（陈列位置、饱满度等）。同时市场管理者深居其位也应时刻保持危机意识和加强自身专业性，避免竞品进攻时出现手足无措的现象。",
+      "textPreview": "郑州南、中原市场： | 郑州地区作为省会，槟榔氛围及销量相比周边区域存在一定优势，竞品品类繁多，本品在市场虽处于第一品牌，但仍存在较多不足之处，例不同辖区基础工作差异较大，对于地处偏远、动销缓慢的辖区管理有所松懈（陈列位置、饱满度等）。同时市场管理者深居其位也应时刻保持危机...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 14,
+        "lines": [
+          {
+            "index": 1,
+            "text": "郑州南、中原市场："
+          },
+          {
+            "index": 2,
+            "text": "郑州地区作为省会，槟榔氛"
+          },
+          {
+            "index": 3,
+            "text": "围及销量相比周边区域存在"
+          },
+          {
+            "index": 4,
+            "text": "一定优势，竞品品类繁多，"
+          },
+          {
+            "index": 5,
+            "text": "本品在市场虽处于第一品牌"
+          },
+          {
+            "index": 6,
+            "text": "，但仍存在较多不足之处，"
+          },
+          {
+            "index": 7,
+            "text": "例不同辖区基础工作差异较"
+          },
+          {
+            "index": 8,
+            "text": "大，对于地处偏远、动销缓"
+          },
+          {
+            "index": 9,
+            "text": "慢的辖区管理有所松懈（陈"
+          },
+          {
+            "index": 10,
+            "text": "列位置、饱满度等）。同时"
+          },
+          {
+            "index": 11,
+            "text": "市场管理者深居其位也应时"
+          },
+          {
+            "index": 12,
+            "text": "刻保持危机意识和加强自身"
+          },
+          {
+            "index": 13,
+            "text": "专业性，避免竞品进攻时出"
+          },
+          {
+            "index": 14,
+            "text": "现手足无措的现象。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "郑州南、中原市场：",
+          "runs": [
+            {
+              "index": 1,
+              "text": "郑州南、中原市场",
+              "color": "#FF0000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "："
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "郑州地区作为省会，槟榔氛围及销量相比周边区域存在一定优势，竞品品类繁多，本品在市场虽处于第一品牌，但仍存在较多不足之处，例不同辖区基础工作差异较大，对于地处偏远、动销缓慢的辖区管理有所松懈（陈列位置、饱满度等）。同时市场管理者深居其位也应时刻保持危机意识和加强自身专业性，避免竞品进攻时出现手足无措的现象。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "郑州地区作为省会，槟榔氛围及销量相比周边区域存在一定优势，竞品品类繁多，本品在市场虽处于第一品牌，但仍存在较多不足之处，例不同辖区基础工作差异较大，对于地处偏远、动销缓慢的辖区管理有所松懈（陈列位置、饱满度等）。同时市场管理者深居其位也应时刻保持危机意识和加强自身专业性，避免竞品进攻时出现手足无措的"
+            },
+            {
+              "index": 2,
+              "text": "现象。"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/87ipkzal",
+      "id": "4",
+      "name": "椭圆 3",
+      "bbox": [
+        563.53,
+        388.27,
+        67.6,
+        17.4
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineColor": "#FF0000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/98rqt4r6",
+      "id": "5",
+      "name": "直接箭头连接符 4",
+      "bbox": [
+        388.07,
+        307.87,
+        185.33,
+        82.93
+      ],
+      "horizontalFlip": true,
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "#FF0000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ml07i9sv",
+      "id": "6",
+      "name": "文本框 5",
+      "bbox": [
+        839.67,
+        172.67,
+        393.13,
+        329.47
+      ],
+      "geometry": "rect",
+      "text": "偃师市场：\n该市场经销商及市场经理管理经验相对稚嫩，主竞品胖哥在该市场及其强势，主城区偃师县已基本沦陷，各项基础工作均不如胖哥，且存在多家终端陈列盒/架未更新（带有“槟榔、提神快”字样），但仓库陈列道具库存相对充足。另外，多家终端反馈各类竞品均有物料发放，例购物袋等，但本品无类似动作，客情关系与竞品相比有所不及。",
+      "textPreview": "偃师市场： | 该市场经销商及市场经理管理经验相对稚嫩，主竞品胖哥在该市场及其强势，主城区偃师县已基本沦陷，各项基础工作均不如胖哥，且存在多家终端陈列盒/架未更新（带有“槟榔、提神快”字样），但仓库陈列道具库存相对充足。另外，多家终端反馈各类竞品均有物料发放，例购物袋等，但...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 12,
+        "lines": [
+          {
+            "index": 1,
+            "text": "偃师市场："
+          },
+          {
+            "index": 2,
+            "text": "该市场经销商及市场经理管理经验"
+          },
+          {
+            "index": 3,
+            "text": "相对稚嫩，主竞品胖哥在该市场及"
+          },
+          {
+            "index": 4,
+            "text": "其强势，主城区偃师县已基本沦陷"
+          },
+          {
+            "index": 5,
+            "text": "，各项基础工作均不如胖哥，且存"
+          },
+          {
+            "index": 6,
+            "text": "在多家终端陈列盒/架未更新（带有"
+          },
+          {
+            "index": 7,
+            "text": "“槟榔、提神快”"
+          },
+          {
+            "index": 8,
+            "text": "字样），但仓库陈列道具库存相对"
+          },
+          {
+            "index": 9,
+            "text": "充足。另外，多家终端反馈各类竞"
+          },
+          {
+            "index": 10,
+            "text": "品均有物料发放，例购物袋等，但"
+          },
+          {
+            "index": 11,
+            "text": "本品无类似动作，客情关系与竞品"
+          },
+          {
+            "index": 12,
+            "text": "相比有所不及。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "偃师市场：",
+          "runs": [
+            {
+              "index": 1,
+              "text": "偃师市场",
+              "color": "#FF0000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "："
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "该市场经销商及市场经理管理经验相对稚嫩，主竞品胖哥在该市场及其强势，主城区偃师县已基本沦陷，各项基础工作均不如胖哥，且存在多家终端陈列盒/架未更新（带有“槟榔、提神快”字样），但仓库陈列道具库存相对充足。另外，多家终端反馈各类竞品均有物料发放，例购物袋等，但本品无类似动作，客情关系与竞品相比有所不及。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "该市场经销商及市场经理管理经验相对稚嫩，主竞品胖哥在该市场及其强势，主城区偃师县已基本沦陷，各项基础工作均不如胖哥，且存在多家终端陈列盒"
+            },
+            {
+              "index": 2,
+              "text": "/"
+            },
+            {
+              "index": 3,
+              "text": "架未更新（带有"
+            },
+            {
+              "index": 4,
+              "text": "“"
+            },
+            {
+              "index": 5,
+              "text": "槟榔、提神快"
+            },
+            {
+              "index": 6,
+              "text": "”"
+            },
+            {
+              "index": 7,
+              "text": "字样），但仓库陈列道具库存相对充足。另外，多家终端反馈各类竞品均有物料发放，例购物袋等，但本品无类似动作，客情关系与竞品相比有所"
+            },
+            {
+              "index": 8,
+              "text": "不及。"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4bupgn6",
+      "id": "10",
+      "name": "椭圆 9",
+      "bbox": [
+        470.33,
+        412.93,
+        61.2,
+        27.4
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "等线",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineColor": "#FF0000",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w32twb6l",
+      "id": "11",
+      "name": "直接箭头连接符 10",
+      "bbox": [
+        522.6,
+        396.53,
+        292.2,
+        20.4
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "#FF0000",
+      "lineWidth": 1.33
+    }
+  ],
+  "composeRuns": []
+}

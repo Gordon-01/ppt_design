@@ -1,0 +1,3 @@
+# node_modules 是指向 codex 运行时缓存的目录联接（约 319MB），不纳入版本库
+.codex-ppt-polish/node_modules/
+__pycache__/
